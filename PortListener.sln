@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PortListener", "PortListener\PortListener.csproj", "{E39CF7FB-A81C-485A-8B9D-426509D7094E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E39CF7FB-A81C-485A-8B9D-426509D7094E}.Debug|x86.ActiveCfg = Debug|x86
+		{E39CF7FB-A81C-485A-8B9D-426509D7094E}.Debug|x86.Build.0 = Debug|x86
+		{E39CF7FB-A81C-485A-8B9D-426509D7094E}.Release|x86.ActiveCfg = Release|x86
+		{E39CF7FB-A81C-485A-8B9D-426509D7094E}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D731C90F-38AD-4914-BA33-835F6599E2C6}
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = PortListener\PortListener.csproj
+	EndGlobalSection
+EndGlobal
